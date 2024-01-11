@@ -18,7 +18,7 @@ Click on the name of a role or playbook to view that content's documentation:
 Name | Description
 --- | ---
 [cloud.terraform_ops.aws_s3backend](https://github.com/ansible-collections/cloud.terraform_ops/blob/main/roles/aws_s3backend/README.md)|A role to create the necessary AWS infrastructure for an S3 remote backend for Terraform.
-
+[cloud.terraform_ops.azurerm_backend](https://github.com/ansible-collections/cloud.terraform_ops/blob/main/roles/azurerm_backend/README.md)|A role to create/delete the necessary Azure infrastructure for an Azurerm remote backend for Terraform.
 
 ## Installation and Usage
 
